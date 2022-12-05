@@ -1,4 +1,5 @@
-source('C:\\Users\\gvheisler\\Desktop\\data-mining\\data-mining\\decision-tree\\functions.r')
+#source('C:\\Users\\gvheisler\\Desktop\\data-mining\\data-mining\\decision-tree\\functions.r')
+source(url('https://raw.githubusercontent.com/gvheisler/decision-tree/main/functions.r'))
 
 ds <- read.csv('C:\\Users\\gvheisler\\Desktop\\data-mining\\data-mining\\decision-tree\\insetos00.csv')
 
